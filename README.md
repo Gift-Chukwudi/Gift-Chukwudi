@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1b32a0f4-198f-4c4f-8e72-50954d6de38f" /><h1 align ="center">Hi there👋🏽, I'm Gift Chukwudi
+<h1 align ="center">Hi there👋🏽, I'm Gift Chukwudi
 <h3 align ="center">Data Analyst | Sales & Marketing | Communications Expert | Tech Enthusiast
 
 ---
