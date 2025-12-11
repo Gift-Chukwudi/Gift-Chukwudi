@@ -1,5 +1,5 @@
 <h1 align ="center">Hi there👋🏽, I'm Gift Chukwudi
-<h3 align ="center">Data Analyst | Digital Marketer | Communications Expert | Tech Enthusiast
+<h3 align ="center">Data Analyst | Sales & Marketing | Communications Expert | Tech Enthusiast
 
 ---
 
@@ -9,6 +9,12 @@ I'm a data-driven professional passionate about transforming data into actionabl
 ---
 
 ### 📚 Skills & Tools
+- **Languages:** SQL, DAX(Power BI), M(Power Query). 
+* **Data Analysis & Visualizations:** Microsoft Power BI, Excel, Tableau.
+* Collaboration Tools: Microsoft 365, Asana, GitHub.
+Sales & Marketing Tools: HubSpot, LinkedIn, Sales Navigator, Snov.io, Apollo.
+Communications: Content Writing, Copywriting, Technical Writing, Content Review, Branding, Stakeholder Engagement.
+Soft Skills: Negotiation, Problem Solving, Critical Thinking, Project Management, Team Collaboration, Adaptability, Creativity.
 
 <!--
 **Gift-Chukwudi/Gift-Chukwudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
