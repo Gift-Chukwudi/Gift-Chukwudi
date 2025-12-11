@@ -1,4 +1,4 @@
-<h1 align="center">## Hi there👋🏽, I'm Gift Chukwudi<\h1>
+<h1 align="center">Hi there👋🏽, I'm Gift Chukwudi<\h1>
 
 <!--
 **Gift-Chukwudi/Gift-Chukwudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
