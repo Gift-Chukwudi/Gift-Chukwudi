@@ -6,6 +6,10 @@
 ### 👩🏽‍💻 About Me
 I'm a data-driven professional passionate about transforming data into actionable insights. With diverse experience spanning tech sales, marketing, communications, project management, and digital/AI transformation. I thrive at the intersection of analytics and strategy, enabling organizations to maximize the value of technology, make informed decisions, and drive meaningful business outcomes.
 
+--
+
+### Skills & Tools
+
 <!--
 **Gift-Chukwudi/Gift-Chukwudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
