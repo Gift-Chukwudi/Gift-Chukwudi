@@ -45,4 +45,4 @@ I'm a data-driven professional passionate about transforming data into actionabl
 
 ### 😊 Connect With Me
 * 🔗- [*Connect with me on LinkedIn*](https://linkedin.com/in/giftchukwudi)
-* 📩- [*Email*](giftchukwudi99@gmail.com)
+* 📩- *giftchukwudi99@gmail.com*
