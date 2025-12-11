@@ -1,4 +1,8 @@
 <h1 align="center">Hi there👋🏽, I'm Gift Chukwudi
+<h2 align="center">Data Analyst | Digital Marketer | Communications Expert | Tech Enthusiast
+
+### About Me
+I'm a data-driven professional passionate about transforming data into actionable insights. With diverse experience spanning tech sales, marketing, communications, project management, and digital/AI transformation. I thrive at the intersection of analytics and strategy, enabling organizations to maximize the value of technology, make informed decisions, and drive meaningful business outcomes.
 
 <!--
 **Gift-Chukwudi/Gift-Chukwudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
