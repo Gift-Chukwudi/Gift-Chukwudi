@@ -1,5 +1,5 @@
-Hi there👋🏽, I'm Gift Chukwudi
-Data Analyst | Digital Marketer | Communications Expert | Tech Enthusiast
+# Hi there👋🏽, I'm Gift Chukwudi
+## Data Analyst | Digital Marketer | Communications Expert | Tech Enthusiast
 
 ---
 
