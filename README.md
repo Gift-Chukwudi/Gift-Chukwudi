@@ -1,4 +1,5 @@
-## Hi there 👋I'm Gift Chukwudi
+# Hi there 👋I'm Gift Chukwudi
+## Data Analyst
 
 
 
