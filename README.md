@@ -1,4 +1,4 @@
-<h1 align ="center">Hi there👋🏽, I'm Gift Chukwudi
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1b32a0f4-198f-4c4f-8e72-50954d6de38f" /><h1 align ="center">Hi there👋🏽, I'm Gift Chukwudi
 <h3 align ="center">Data Analyst | Sales & Marketing | Communications Expert | Tech Enthusiast
 
 ---
@@ -38,3 +38,11 @@ I'm a data-driven professional passionate about transforming data into actionabl
 ---
 
 ### 🔎 I'm Open To
+* Roles in Data & AI (freelance & remote).
+* Collaboration on data projects.
+
+---
+
+### 😊 Connect With Me
+* [*Visit my LinkedIn*](https://www.linkedin.com/in/giftchukwudi/)
+* 🔗 - https://www.linkedin.com/in/giftchukwudi/
