@@ -1,5 +1,5 @@
-# Hi there👋🏽, I'm Gift Chukwudi
-## Data Analyst | Digital Marketer | Communications Expert | Tech Enthusiast
+<h1 align ="center">Hi there👋🏽, I'm Gift Chukwudi
+<h3 align ="center">Data Analyst | Digital Marketer | Communications Expert | Tech Enthusiast
 
 ### About Me
 I'm a data-driven professional passionate about transforming data into actionable insights. With diverse experience spanning tech sales, marketing, communications, project management, and digital/AI transformation. I thrive at the intersection of analytics and strategy, enabling organizations to maximize the value of technology, make informed decisions, and drive meaningful business outcomes.
