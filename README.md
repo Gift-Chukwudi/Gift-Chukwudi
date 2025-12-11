@@ -9,24 +9,32 @@ I'm a data-driven professional passionate about transforming data into actionabl
 ---
 
 ### 📚 Skills & Tools
-- **Languages:** SQL, DAX(Power BI), M(Power Query). 
+* **Languages:** SQL, DAX(Power BI), M(Power Query). 
 * **Data Analysis & Visualizations:** Microsoft Power BI, Excel, Tableau.
-* Collaboration Tools: Microsoft 365, Asana, GitHub.
-Sales & Marketing Tools: HubSpot, LinkedIn, Sales Navigator, Snov.io, Apollo.
-Communications: Content Writing, Copywriting, Technical Writing, Content Review, Branding, Stakeholder Engagement.
-Soft Skills: Negotiation, Problem Solving, Critical Thinking, Project Management, Team Collaboration, Adaptability, Creativity.
+* **Collaboration Tools:** Microsoft 365, Asana, GitHub.
+* **Sales Tools:** HubSpot, LinkedIn, Sales Navigator, Snov.io, Apollo.
+* **Digital Marketing:** Content Creation & Strategy, Copywriting, Technical Writing, Content Review, Branding, Stakeholder Engagement, Email Campaigns, Social Media Management.
+* **Soft Skills:** Negotiation, Problem Solving, Critical Thinking, Project Management, Team Collaboration, Adaptability, Creativity.
 
-<!--
-**Gift-Chukwudi/Gift-Chukwudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏅 Certifications
+* SQL Fundamentals - DataCamp.
+* Data Analysis Using Excel & Tableau - Entrylevel.
+* Oracle Data Platform 2025 Certified Foundations Associate
+* Microsoft Certified: Microsoft Azure AI Fundamentals - AI-900.
+* Microsoft Certified: Microsoft Azure Data Fundamentals - DP-900.
+* Microsoft Certified: Dynamics 365 Fundamentals (CRM) - MB-910
+* Microsoft Certified: Microsoft Certified: Power BI Data Analyst Associate - PL-300.
+* Microsoft Certified: Fabric Data Engineer Associate - DP-700.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 Data Analytics Projects
+* **SQL Projects:** In this repository, you will find projects completed in PostgreSQL.  
+* **Power BI Projects:** This repository hosts all projects completed in Power BI.  
+* **Excel Projects:** In this repository, you will find all projects completed in Microsoft Excel.
+
+---
+
+### 🔎 I'm Open To
