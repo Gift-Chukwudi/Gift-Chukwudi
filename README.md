@@ -12,7 +12,7 @@ I'm a data-driven professional passionate about transforming data into actionabl
 * **Languages:** SQL, DAX(Power BI), M(Power Query). 
 * **Data Analysis & Visualizations:** Microsoft Power BI, Excel, Tableau.
 * **Collaboration Tools:** Microsoft 365, Asana, GitHub.
-* **Sales Tools:** HubSpot, LinkedIn, Sales Navigator, Snov.io, Apollo.
+* **Sales Tools:** LinkedIn, Sales Navigator, Snov.io, Apollo.
 * **Digital Marketing:** Content Creation & Strategy, Copywriting, Technical Writing, Content Review, Branding, Stakeholder Engagement, Email Campaigns, Social Media Management.
 * **Soft Skills:** Negotiation, Problem Solving, Critical Thinking, Project Management, Team Collaboration, Adaptability, Creativity.
 
